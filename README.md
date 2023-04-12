@@ -1,6 +1,6 @@
 # Plugin - Modal
 
-Link library: https://www.npmjs.com/package/plugin-modal
+Link library: https://www.npmjs.com/package/@wodenp98/plugin-modal-react
 
 ## Presentation
 
@@ -9,14 +9,14 @@ I created a modal to simplify the visualization of an action or the appearance o
 ## Install :
 
 ```
-$ npm install --save plugin-modal
-$ yarn add plugin-modal
+$ npm install --save @wodenp98/plugin-modal-react
+$ yarn add @wodenp98/plugin-modal-react
 ```
 
 #### Import Modal :
 
 ```js
-import { Modal } from "plugin-modal";
+import { Modal } from "@wodenp98/plugin-modal-react";
 ```
 
 #### Create the initial state for the modal :
